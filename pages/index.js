@@ -9,7 +9,7 @@ function Home () {
       <ul>
         <li><strong>1-</strong> Uma ida ao cinema com tudo pago 🎥🍿</li>
         <li><strong>2-</strong> Direito a ganhar um jogo (ou ganhar cosméticos de um) 🎮👾</li>
-        <li><strong>3-</strong> Ingressos por dois dias da GGCON</li>
+        <li><strong>3-</strong> Ingressos para dois dias da GGCON 🎟️🎪</li>
       </ul>
 
       <p><strong>Resgate com responsabilidade 😎🤝</strong></p>
