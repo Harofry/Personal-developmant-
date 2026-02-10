@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Praise the sun!</h1>
+    return <h1>Sir Gabriel de Itaú</h1>
 }
  
 export default Home;
