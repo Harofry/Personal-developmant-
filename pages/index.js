@@ -1,17 +1,20 @@
 function Home () {
-    return <h1>
-        
-        OBSERVAÇÃO: ESSA É UMA MENSAGEM OCULTA
-        Caso você esteja lendo isso signifca que você é o melhor primo do mundo!
-        
-        Sua recompensa por isso é:
-        1- Uma ida ao cinema com tudo pago 🎥🍿
-        2- Direito a ganhar um jogo (ou ganhar cosméticos de um) 🎮👾
-        3- Ingressos por dois dias da GGCON 
+  return ( 
+    <div>
+      <h3>OBSERVAÇÃO: ESSA É UMA MENSAGEM OCULTA</h3>
 
-        Resgate com responsabilidade 😎🤝
-        
-    </h1>
+      <p>Caso você esteja lendo isso significa que você é o melhor primo do mundo!</p>
+      <p>Suas recompensas por isso são:</p>
+
+      <ul>
+        <li><strong>1-</strong> Uma ida ao cinema com tudo pago 🎥🍿</li>
+        <li><strong>2-</strong> Direito a ganhar um jogo (ou ganhar cosméticos de um) 🎮👾</li>
+        <li><strong>3-</strong> Ingressos por dois dias da GGCON</li>
+      </ul>
+
+      <p><strong>Resgate com responsabilidade 😎🤝</strong></p>
+    </div>
+  ) 
 }
- 
+
 export default Home;
