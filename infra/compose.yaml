@@ -4,3 +4,5 @@ services:
     environment:
       POSTGRES_USER: "harofry"
       POSTGRES_PASSWORD: "starwars19"
+    ports:
+      - "5432:5432"
